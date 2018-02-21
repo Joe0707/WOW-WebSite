@@ -1,0 +1,118 @@
+.logo{
+	weight:1330px;
+	height:630px;
+}
+#logo1{
+   width: 1200px;
+   height: 90px;
+   background:url(/WOW/pagevideo/621.jpg) no-repeat;
+   margin: 0px auto;
+}
+#logo2{
+   width: 1200px;
+   height: 40px;
+   margin: 0 auto;
+}
+#logo2_1{
+   width: 1200px;
+   height: 50px;
+   margin: 0 auto;
+}
+#logo3{
+   width: 1200px;
+   height: 480px;
+   background:url(/WOW/pagevideo/110.jpg) no-repeat;
+   margin: 0 auto;
+   text-align:center;
+   overflow:hidden;
+   z-index:-80;
+}
+#logo5{
+   width: 1200px;
+   height: 65px;
+   line-height:65px;
+   text-align:left;
+   margin:0 auto;
+   background:url(/WOW/pagevideo/img/607.jpg) no-repeat;
+   
+}
+ .vedio{
+   width: 1330px;
+   height: 590px;
+   margin: 0 auto;
+   margin-top:50px;
+}
+#vedio1{
+   width: 1200px;
+   height: 540px;
+   background:url(/WOW/pagevideo/621.jpg) no-repeat;
+   margin: 0 auto;
+   text-align:center;
+   overflow:hidden;
+}
+#logo3 img{
+	width:100%;
+	height:100%;
+}
+#logo5 a{
+	
+	padding:10px 50px;
+	margin:0 72px;
+	font-size:20px;
+	line-height:40px;
+	text-align:center;
+	background:url(/WOW/pagevideo/img/logo4-1.gif) no-repeat center;
+	
+}
+#page{
+	width: 1200px;
+   height: 40px;
+   margin: 0 auto;
+   text-align:center;
+   background:url(/WOW/pagevideo/621.jpg) no-repeat;
+}
+#page a{
+	
+	padding:10px 10px;
+	margin:0 10px;
+	line-height:40px;
+	text-align:center;
+	
+}
+
+#logo5 span{
+	color:black;
+	line-height:60px;
+	font-size:30px;
+	font-weight:600;
+}
+#menu{
+	height:30px;
+	font-size:25px;
+	font-weight:600;
+	color:black;
+	background:url(/WOW/pagevideo/111.jpg) no-repeat;
+}
+
+#v1{
+	position:fixed;
+	right:0;
+	bottom:0;
+	min-width:100%;
+	min-height:100%;
+	width:auto;
+	height:auto;
+	z-index:-99;
+}
+.uri{
+	display:none;
+}
+
+
+
+
+
+
+
+
+

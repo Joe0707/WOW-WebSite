@@ -1,0 +1,162 @@
+body{
+	background-color:#092f3f;
+}
+div{
+}
+.logo{
+	border:0;
+}
+.limenu{
+	margin:0 auto;
+	margin-top:530px;
+	width:77%;
+	height:60px;
+	background-color:#3F3F3F;
+}
+.limenu p{
+	color:#CFCFBF;
+	margin:10px;
+	margin-left:45%;
+}
+.accountinfo{
+	width:77%;
+	height:400px;
+	background-color:#9F8F6F;
+}
+.text{
+	width:70%;
+	height:100%;
+	float:right;
+	border:1px solid black;
+}
+.text div{
+	height:30%;
+}
+.text p{
+	margin:15px;
+}
+.text input{
+	width:100px;
+	height:25px;
+	font-size:20px;
+}
+.text .modify{
+	margin:40px 100px;
+	margin-left:200px;
+}
+.text .cgender{
+	font-size:15px;
+	width:45px;
+	height:25px;
+}
+.text .loca{
+	font-size:15px;
+	width:80px;
+	height:25px;
+}
+.text .city{
+	font-size:15px;
+	width:80px;
+	height:25px;
+}
+.list p{
+	margin-left:10%;
+	cursor:pointer;
+	width:20%;
+}
+.sign{
+	margin-left:50px;
+}
+.game{
+	margin-left:50px;
+}
+.sign img{
+	float:left;
+	margin:10px;
+	margin-left:30px;
+}
+.sign .p11{
+	margin-left:32%;
+}
+.sign .p12{
+	margin-left:32%;
+	font-size:15px;
+}
+.sign input{
+	float:right;
+	margin:20px;
+	margin-right:32%;
+	background:url("/WOW/img/btn.png") no-repeat center;
+	border:0;
+	cursor:pointer;
+	height:50px;
+	width:50px;
+	font-size:20px;
+}
+.game img{
+	float:left;
+	margin:10px;
+	margin-left:30px;
+}
+.game .p21{
+	margin-left:32%;
+}
+.game .p22{
+	margin-left:32%;
+	font-size:15px;
+}
+.game input{
+	float:right;
+	margin:20px;
+	margin-right:160px;
+	background:url("/WOW/img/btn.png") no-repeat center;
+	border:0;
+	cursor:pointer;
+	height:50px;
+	width:18%;
+	font-size:20px;
+}
+.success{
+	height:100px;
+	width:20%;
+	background-color:white;
+	position:fixed;
+	bottom:250px;
+	left:40%;
+	display:block;
+}
+.success p{
+	font-size:20px;
+	color:red;
+	width:60%;
+	margin:20px auto;
+}
+.success img{
+	float:right;
+	margin:10px;
+}
+#provalue{
+	display:none;
+}
+.person{
+	width:29.7%;
+	border:1px solid black;
+}
+.person p{
+	width:100%;
+	text-align:center;
+	margin:10px 0;
+}
+.duty1{
+	width:29.7%;
+	border:1px solid black;
+	border-top:0;
+}
+.duty1 p{
+	width:100%;
+	text-align:center;
+	margin:10px 0;
+}
+.accountinfo{
+	border:0;
+}

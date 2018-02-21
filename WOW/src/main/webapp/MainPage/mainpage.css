@@ -1,0 +1,237 @@
+body{
+	background-color:black;
+}
+p{
+	font-size:23px;
+	margin:10px 10px 10px 0;
+	color:white;
+}
+*{
+	padding:0;
+	margin:0;
+	font-family:
+	"宋体","文泉驿正黑","黑体";
+}
+body>div{
+	margin:0 auto;
+	width:77%;
+}
+.info img{
+	margin-left:5px;
+}
+.video{
+	width:1300px;
+	height:590px;
+	margin:0;
+	position:absolute;
+	top:0;
+	left:0;
+	z-index:-1;
+}
+.mvideo{
+	/*height:100%;
+	width:100%;*/
+}
+/*
+.tip{
+	height:30px;
+	width:1000px;
+	background-color:black;
+	margin:0 auto;
+}
+.account{
+	width:110px;
+	float:right;
+	color:#CFCF4F;
+	font-size:20px;
+}
+.account span{
+	line-height:30px;
+	cursor:pointer;
+	margin:5px;
+}
+.account a{
+	color:#CFCF4F;
+	text-decoration:none;
+}
+.logo{
+	height:720px;
+	width:100%;
+	background:url(../img/logo.jpg) #1F1F1F no-repeat center;
+}
+.remind{
+	height:170px;
+	width:300px;
+	background-color:#CFCFBF;
+	position:fixed;
+	top:300px;
+	left:500px;
+	display:none;
+}
+.remind .login{
+	margin-left:20px;
+}
+.remind input{
+	height:25px;
+	margin:0;
+}
+.remind span{
+	line-height:43px;
+	margin:10px;
+}
+.remind p{
+	height:	26px;
+	font-size:23px;
+	margin:10px 10px 10px 0;
+	color:white;
+}
+.remind .button{
+	margin:40px;
+}
+.button input{
+	margin:0 20px 0 30px;
+	height:35px;
+	width:35px;
+}
+.menu{
+	height:65px;
+	width:1000px;
+	margin-top:15px;
+	margin-left:180px;
+	background-color:#2F2F2F;
+	position:fixed;
+	top:30px;
+	
+}
+.menu img{
+	position:absolute;
+	left:-10px;
+}
+.title{
+	height:80px;
+	margin:0 10px 0 180px;
+}
+.menu span{
+	font-size:25px;
+	line-height:65px;
+	margin:0 30px;
+}
+.menu a{
+	text-decoration:none;
+	color:#CFCFBF;
+}
+.menu a:hover{
+	color:white;
+}
+.search input{
+	height:30px;
+	width:140px;
+	background:url(../img/search.png) black no-repeat 110px 10px;
+	color:#2f2f2f;
+}
+.search{
+	float:right;
+	margin:20px 15px;
+	width:140px;
+}*/
+.hottext{
+	font-size:30px;
+	color:white;
+	margin:140px 155px 0;
+	width:77%;
+}
+.hotinfo{
+	height:350px;
+	width:77%;
+	margin:0 auto;
+	margin-top:180px;
+}
+.img{
+	height:30%;
+}
+.hotinfo ul{
+	list-style-type:none;
+}
+.imgs li{
+	float:left;
+	margin-right:5px;
+	position:relative;
+	cursor:pointer;
+}
+.imgs .datetext{
+	font-size:12px;
+	margin:0 5px;
+}
+.imgs .infotext{
+	position:absolute;
+	bottom:5px;
+}
+.imgs .infotextup{
+	position:absolute;
+	bottom:10px;
+}
+.imgs .loc{
+	display:none;
+}
+.imgs .content{
+	font-size:15px;
+	margin:5px 5px;
+	font-weight:bold;
+	color:#CFCF4F;
+}
+.imgtext span:hover{
+	font-weight:bold;
+	cursor:pointer;
+}
+.doorinfo{
+	width:77%;
+}
+.door{
+	list-style-type:none;
+	height:700px;
+	width:100%;
+	margin:20px auto;
+}
+.door li{
+	width:49.8%;
+	height:50%;
+	float:left;
+	text-align:center;
+	background-color:#9F8F6F;
+}
+.door img{
+	cursor:pointer;
+}
+.door .send{
+	display:none;
+}
+.link{
+	height:30px;
+	background-color:#3F3F3F;
+}
+.link span{
+	line-height:30px;
+	margin-left:48%;
+	color:white;
+}
+.law{
+	height:100px;
+	background-color:#1F1F1F;
+}
+.law p{
+	margin-left:30%;
+	font-size:20px;
+}
+#back{
+	position:fixed;
+	right:10px;
+	bottom:10px;
+	width:70px;
+	height:30px;
+	margin:10px;
+}
+#back a{
+	font-size:20px;
+	color:#CFCF4F;
+	text-decoration:none;
+}

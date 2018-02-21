@@ -1,0 +1,93 @@
+*{
+	padding:0;
+	margin:0;
+	font-family:
+	"瀹嬩綋","鏂囨硥椹挎榛�","榛戜綋";
+}
+p{
+	font-size:23px;
+	margin:10px 10px 10px 0;
+	color:white;
+}
+body>div{
+	margin:0 auto;
+	border:1px solid black;
+	width:77%;
+}
+.link{
+	
+	height:50px;
+	background-color:#3F3F3F;
+}
+.link span{
+	line-height:50px;
+    margin-left:50px;
+	color:white;
+	font-weight:bold;
+	float:left;		
+}
+.link img{
+	margin-left:20px;
+}
+.law{
+	height:100px;
+	background-color:black;
+}
+.law p{
+	text-align:center;
+	font-size:10px;
+	color:#999999;
+	margin:25px auto;
+	
+	
+}
+#back{
+	position:fixed;
+	right:10px;
+	bottom:10px;
+	width:100px;
+	height:50px;
+	margin:10px;
+}
+#back a{
+	font-size:20px;
+	color:#CFCF4F;
+	text-decoration:none;
+}
+
+.team{
+	height:180px;
+	background-color:black;	
+	
+	
+}
+.img01{
+	float:left;
+	margin-left:80px;
+	margin-top:10px;
+	width:200px;
+}
+.p1 {
+    float:left;
+    margin-left:80px;
+    margin-top:40px;
+    margin-right:75px;
+    width:400px;
+}
+.p1 p{
+	font-size:10px; 
+	color:#999999;
+}
+
+.co p{
+	color:white;
+	font-size:10px;	
+	margin-top:50px;
+}
+.duty{
+	background-color:black;
+}
+.duty p{
+	font-size:20px;
+	margin-left:25px;
+}

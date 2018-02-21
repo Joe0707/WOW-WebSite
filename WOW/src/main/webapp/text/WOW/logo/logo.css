@@ -1,0 +1,121 @@
+*{
+	padding:0;
+	margin:0;
+	font-family:
+	"宋体","文泉驿正黑","黑体";
+}
+p{
+	font-size:23px;
+	margin:10px 10px 10px 0;
+	color:white;
+}
+body>div{
+	margin:0 auto;
+	border:1px solid red;
+	width:77%;
+}
+.tip{
+	height:30px;
+	width:1000px;
+	background-color:black;
+	margin:0 auto;
+}
+.account{
+	width:14%;
+	float:right;
+	color:#CFCF4F;
+	font-size:20px;
+}
+.account span{
+	line-height:30px;
+	cursor:pointer;
+	margin:5px;
+}
+.account a{
+	color:#CFCF4F;
+	text-decoration:none;
+}
+.logo{
+	height:610px;
+	width:100%;
+}
+.remind{
+	height:170px;
+	width:21%;
+	background-color:#CFCFBF;
+	position:fixed;
+	top:35%;
+	left:40%;
+	display:none;
+}
+.remind .login{
+	margin-left:20px;
+}
+.remind input{
+	height:25px;
+	margin:0;
+}
+.remind span{
+	line-height:43px;
+	margin:10px;
+}
+.remind p{
+	height:	26px;
+}
+.remind .button{
+	margin:40px;
+}
+.button input{
+	margin:0 20px 0 30px;
+	height:35px;
+	width:35px;
+}
+.menu{
+	height:65px;
+	width:77%;
+	margin-top:15px;
+	margin-left:11.5%;
+	background-color:#2F2F2F;
+	position:absolute;
+	top:30px;
+	
+}
+.menu img{
+	position:absolute;
+	left:-10px;
+}
+.title{
+	height:80px;
+	margin:0 10px 0 180px;
+}
+.menu span{
+	font-size:25px;
+	line-height:65px;
+	margin:0 30px;
+}
+.menu a{
+	text-decoration:none;
+	color:#CFCFBF;
+}
+.menu a:hover{
+	color:white;
+}
+.search span{
+	font-size:15px;
+	color:#CFCF4F;
+	float:right;
+	margin:0 auto;
+	line-height:40px;	
+}
+.search input{
+	height:30px;
+	width:110px;
+	background:url(/WOW/img/search.png) black no-repeat 110px 10px;
+	color:#2f2f2f;
+	margin-left:20px;
+}
+.search{
+	float:right;
+	margin:20px 10px;
+	width:170px;
+}
